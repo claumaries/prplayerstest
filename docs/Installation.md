@@ -57,7 +57,7 @@ Follow these steps to get your development environment running:
 This will start the local development server at http://localhost:8000
 
    ```bash
-       php artisan storage:link
+       php artisan serve
    ```
 
 
